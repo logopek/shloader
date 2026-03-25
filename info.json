@@ -1,0 +1,20 @@
+[
+  {
+    "name": "re:extera",
+    "description": "re:extera",
+    "versionInfos": [
+      {
+        "versionCode": 0,
+        "expectedVersion": "65308",
+        "expectedVersionString": "12.5.1",
+        "url": ""
+      },
+      {
+        "versionCode": 1,
+        "expectedVersion": "65308",
+        "expectedVersionString": "12.5.1",
+        "url": ""
+      }
+    ]
+  }
+]
