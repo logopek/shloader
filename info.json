@@ -2,6 +2,7 @@
   {
     "name": "re:extera",
     "description": "re:extera",
+    "settingsActivityString": "ni.shikatu.re_extera.settings.newui.SettingsFragmentNew"
     "versionInfos": [
       {
         "versionCode": 0,
