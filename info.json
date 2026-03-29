@@ -7,13 +7,13 @@
         "versionCode": 0,
         "expectedVersion": "65308",
         "expectedVersionString": "12.5.1",
-        "url": ""
+        "url": "https://github.com/logopek/re-extera-pub/raw/refs/heads/main/re-extera.1.5.dex"
       },
       {
         "versionCode": 1,
         "expectedVersion": "65308",
         "expectedVersionString": "12.5.1",
-        "url": ""
+        "url": "https://github.com/logopek/re-extera-pub/raw/refs/heads/main/re-extera.1.5.2.dex"
       }
     ]
   }
