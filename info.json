@@ -1,4 +1,7 @@
-[
+{
+    "lastShLoaderVersionCode": 1,
+    "lastShLoaderVersionUrl": "https://github.com/logopek/shloader/raw/refs/heads/main/shloader.dex",
+    "plugins": [
     {
       "id": "re_extera_dex",
       "name": "re:extera",
@@ -13,7 +16,7 @@
           "url": "https://github.com/logopek/re-extera-pub/raw/refs/heads/main/re-extera.1.5.2.dex"
         },
           {
-          "versionCode": 2,
+          "versionCode": 11,
             "beta": true,
           "expectedVersion": "65308",
           "expectedVersionString": "12.5.1",
@@ -23,3 +26,4 @@
       ]
     }
   ]
+}
