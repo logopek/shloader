@@ -31,6 +31,21 @@
         }
         
       ]
+    },
+    {
+        "id": "smoothcur",
+        "name": "smoothcur",
+        "description": "smoothcur",
+        "settingsActivityString": "ni.shikatu.smoothcur.settings.SmoothCurFragment",
+        "mainClassString": "ni.shikatu.smoothcur.Main",
+        "versionInfos": [
+            {
+                "versionCode": 1,
+                "expectedVersion": "65308",
+                "expectedVersionString": "Any",
+                "url": "https://github.com/logopek/shloader/raw/refs/heads/main/smoothcur.dex"
+            }
+        ]
     }
   ]
 }
