@@ -1,6 +1,6 @@
 {
-    "lastShLoaderVersionCode": 2,
-    "lastShLoaderVersionUrl": "https://github.com/logopek/shloader/raw/refs/heads/main/shloader_v2.dex",
+    "lastShLoaderVersionCode": 3,
+    "lastShLoaderVersionUrl": "https://github.com/logopek/shloader/raw/refs/heads/main/shloader_v3.dex",
     "plugins": [
     {
       "id": "re_extera_dex",
