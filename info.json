@@ -10,26 +10,12 @@
       "mainClassString": "ni.shikatu.re_extera.Main",
       "versionInfos": [
         {
-          "versionCode": 1,
-          "expectedVersion": "65308",
-          "expectedVersionString": "12.5.1",
-          "url": "https://github.com/logopek/re-extera-pub/raw/refs/heads/main/re-extera.1.5.2.dex"
-        },
-          {
-          "versionCode": 11,
-            "beta": true,
-          "expectedVersion": "65308",
-          "expectedVersionString": "12.5.1",
-          "url": "https://github.com/logopek/shloader/raw/refs/heads/main/re_extera_beta.dex"
-        },
-        {
             "versionCode": 12,
             "beta": true,
             "expectedVersion":"65308",
             "expectedVersionString": "12.5.1",
             "url":"https://github.com/logopek/shloader/raw/refs/heads/main/re_extera_beta_v11.dex"
         }
-        
       ]
     },
     {
