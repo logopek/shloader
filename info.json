@@ -11,7 +11,7 @@
       "versionInfos": [
         {
             "versionCode": 12,
-            "beta": true,
+            "beta": false,
             "expectedVersion":"65308",
             "expectedVersionString": "Any",
             "url":"https://github.com/logopek/shloader/raw/refs/heads/main/re_extera_beta_v11.dex"
